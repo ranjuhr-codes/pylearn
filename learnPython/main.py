@@ -74,7 +74,7 @@
 #
 # print(names)
 
-# Python learning file
+# Python learning file, account check
 
 import sys
 import source as temp
